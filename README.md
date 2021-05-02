@@ -1,4 +1,4 @@
-# disorg
+# discorg
 ![discorg logo](icon.png)
 
 A Discord bot for meeting scheduling and organization, created for QHacks 2021. Learn more [here](https://devpost.com/software/discord-scheduling-bot)!
